@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @me-mariosteve
-- 👀 I’m interested in the programmation, the sciences and the mathematics.
+- 👀 I’m interested in the computer sciences, the sciences and the mathematics.
 - 🌱 I’m currently learning many programming languages and mathematics.
